@@ -1,0 +1,13 @@
+sit-lab-1@sit-lab-1-OptiPlex-3280-AIO:~/Desktop/daffodil$ touch daffodil.c
+sit-lab-1@sit-lab-1-OptiPlex-3280-AIO:~/Desktop/daffodil$ touch intro
+sit-lab-1@sit-lab-1-OptiPlex-3280-AIO:~/Desktop/daffodil$ nano daffodil.c
+sit-lab-1@sit-lab-1-OptiPlex-3280-AIO:~/Desktop/daffodil$ gcc daffodil.c -ointro
+sit-lab-1@sit-lab-1-OptiPlex-3280-AIO:~/Desktop/daffodil$ ./intro
+My name is Daffodil Tembhurkar.sit-lab-1@sit-lab-1-OptiPlex-3280-AIO:~/Desktop/daffodil$ 
+
+
+
+
+
+
+
